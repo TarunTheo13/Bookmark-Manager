@@ -91,6 +91,39 @@
           null
         ]
       },
+      "/Users/theodoreweisz/MakersMain/week4/bookmark_manager/spec/database_connection_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/theodoreweisz/MakersMain/week4/bookmark_manager/spec/features/add_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -179,6 +212,6 @@
         ]
       }
     },
-    "timestamp": 1624217536
+    "timestamp": 1624218957
   }
 }
